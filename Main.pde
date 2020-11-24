@@ -1,4 +1,5 @@
 /*
+ Shooter game where aliens can hold powerups, and explode when hit.
 */
 void settings(){
   size(SCREENX, SCREENY);
